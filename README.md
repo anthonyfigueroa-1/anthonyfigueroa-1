@@ -12,10 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/anthony-figueroa-485427195" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://www.instagram.com/anthony.fig_/" />][instagram]
 
-[twitter]: https://twitter.com/Jane
-[instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/Jane
+[instagram]: https://www.instagram.com/anthony.fig_/
+[linkedin]: https://www.linkedin.com/in/anthony-figueroa-485427195
