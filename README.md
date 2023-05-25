@@ -12,7 +12,7 @@
   
 - <b>C</b>
   - [Command Line Arguments](https://github.com/UNR-Teaching/cs135-lab13-anthonyfigueroa-1)
-  - [](https://github.com/UNR-Teaching/cs135-lab13-anthonyfigueroa-1)
+  - [2D Arrays](https://github.com/UNR-Teaching/cs135-lab12-anthonyfigueroa-1)
 
 <h2>Connect with me:</h2>
 
