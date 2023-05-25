@@ -7,6 +7,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  
+<h2>C Coding Projects:</h2>
 
 <h2>Connect with me:</h2>
 
