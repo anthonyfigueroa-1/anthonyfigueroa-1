@@ -6,7 +6,7 @@
   - [osTicket: Installation, Configuring, and Ticketing Lifestyle](https://github.com/anthonyfigueroa-1/osTicket)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/anthonyfigueroa-1/ActiveDirectory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/joshmadakoredmonds/azure-network-protocols)
   
 <h2>Coding Projects:</h2>
   
