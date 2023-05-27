@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation, Configuring, and Ticketing Lifestyle](https://github.com/anthonyfigueroa-1/osTicket)
+  - [osTicket: Installation](https://github.com/anthonyfigueroa-1/osTicket)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/anthonyfigueroa-1/ActiveDirectory)
   - [Network File Shares and Permissions](https://github.com/anthonyfigueroa-1/Network_File_Shares_and_Permissions)
