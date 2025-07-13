@@ -1,5 +1,10 @@
 <h1>Hi, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-figueroa-485427195">IT Professional</h1>
 
+<h2>Coding Projects:</h2>
+  
+- <b>Python</b>
+  - [Python Project Fundamentals](https://github.com/anthonyfigueroa-1/pyprojects)
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -9,13 +14,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/anthonyfigueroa-1/ActiveDirectory)
   - [Network File Shares and Permissions](https://github.com/anthonyfigueroa-1/Network_File_Shares_and_Permissions)
-  
-<h2>Coding Projects:</h2>
-  
-- <b>C</b>
-  - [Command Line Arguments](https://github.com/UNR-Teaching/cs135-lab13-anthonyfigueroa-1)
-  - [2D Arrays](https://github.com/UNR-Teaching/cs135-lab12-anthonyfigueroa-1)
-  - [File IO](https://github.com/UNR-Teaching/cs135-lab8-anthonyfigueroa-1)
 
 <h2>Connect with me:</h2>
 
